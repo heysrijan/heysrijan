@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @heysrijan
+- 👋 Hi, I’m Srijan Goyal @heysrijan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and React.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS related projects
 - 📫 How to reach me: goyalsrijan987@gmail.com
 
 <!---
